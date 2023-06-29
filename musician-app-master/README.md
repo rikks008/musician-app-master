@@ -1,4 +1,3 @@
 # musician-app
-NodeJS / React sample app for AWS CI/CD pipeline tutorial
+Sample app for CICD pipleline aws using beanstalk
 
-https://www.youtube.com/watch?v=NwzJCSPSPZs
